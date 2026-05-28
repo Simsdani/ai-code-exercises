@@ -28,9 +28,7 @@ For each pattern exercise:
 Each implementation has its own specific requirements:
 
 - **JavaScript**: Node.js with Jest for testing
-- **Python**: Python 3 with unittest
-- **Java**: JDK 11+ with JUnit 5
-- **TypeScript**: TypeScript with Jest for testing
+
 
 ## Design Patterns Overview
 
